@@ -1,0 +1,30 @@
+.li {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+}
+.check {
+  height: 16px;
+  width: 16px;
+}
+.label {
+  padding: 10px;
+  font-size: 20px;
+  margin: 5px;
+  background-color: rgba(141, 241, 233, 0.952);
+  width: 50%;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.del-but {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+.line {
+  text-decoration: line-through;
+}
