@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # React To-Do App
 
 A simple To-Do list application built with React.
@@ -32,3 +34,9 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/yourusername/react-todo-app.git
    ```
+
+   =======
+
+# PlatrrLabs
+
+> > > > > > > a01ab8a826829cd92ff81612dfa7712fc6a1403a
